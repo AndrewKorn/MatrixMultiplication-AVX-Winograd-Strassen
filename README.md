@@ -1,1 +1,1 @@
-# MatrixMultiplication-AVX-Winograd-Strassen-
+# MatrixMultiplication-AVX-Winograd-Strassen
